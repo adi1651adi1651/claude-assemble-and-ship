@@ -2,9 +2,7 @@
   "permissions": {
     "allow": [
       "Bash(claude mcp list)",
-      "Bash(claude mcp get *)",
-      "Bash(npm test)",
-      "Bash(npm run lint)"
+      "Bash(claude mcp get *)"
     ]
   }
 }
