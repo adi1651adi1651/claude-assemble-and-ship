@@ -1,0 +1,14 @@
+{
+  "name": "qa-kit-marketplace",
+  "description": "Marketplace for the qa-kit plugin.",
+  "owner": {
+    "name": "Adi Gilat"
+  },
+  "plugins": [
+    {
+      "name": "qa-kit",
+      "source": "./",
+      "description": "Summarizes branch changes and reviews them for bugs and unclear names."
+    }
+  ]
+}
