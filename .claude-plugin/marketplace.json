@@ -7,8 +7,7 @@
   "plugins": [
     {
       "name": "qa-kit",
-      "source": "./plugin.json"
-      ,
+      "source": "./",
       "description": "Summarizes branch changes and reviews them for bugs and unclear names."
     }
   ]
