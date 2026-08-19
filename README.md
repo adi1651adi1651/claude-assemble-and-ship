@@ -2,6 +2,7 @@
 
 A small Claude Code plugin for quick branch QA: summarize what changed, then get it reviewed.
 
+
 ## What it does
 
 - **`/qa-kit:summarize-changes`** — summarizes the changes on the current branch. Lists each touched file with a one-line description of what changed, short enough to paste straight into a pull-request description.
